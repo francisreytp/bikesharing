@@ -1,2 +1,2 @@
-# bikesharinng
-bike data tableau
+# bikesharing
+bike data with tableau
