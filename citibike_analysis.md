@@ -1,6 +1,5 @@
 # NYC Citibike Analysis
 bike data with tableau
-## Research Data
 
 ## Link to Dashboard
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to dashboard]("https://public.tableau.com/profile/francis4798#!/vizhome/ClimbGlide/MapSuccess")
