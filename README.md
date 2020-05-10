@@ -1,9 +1,8 @@
 # bikesharing
 bike data with tableau
 
-Challenge linked on 
-[citibike_analysis.md](https://github.com/francisreytp/bikesharing/blob/master/citibike_analysis.md)
-
+## Link to Dashboard
+[Tableau link](https://public.tableau.com/profile/francis4798#!/vizhome/ClimbGlide/MapSuccess)
 
 ### We are proposing a 21.7 million initial investment to have ClimbGlide started.
 This includes: 
